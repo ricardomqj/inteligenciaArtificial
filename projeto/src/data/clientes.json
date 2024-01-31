@@ -1,0 +1,29 @@
+[
+  {
+    "nome": "Rui",
+    "listaEstafetasId": {
+      "0": "Luis",
+      "1": "Luis"
+    }
+  },
+  {
+    "nome": "Salome",
+    "listaEstafetasId": {}
+  },
+  {
+    "nome": "Luis",
+    "listaEstafetasId": {}
+  },
+  {
+    "nome": "Ricardinho",
+    "listaEstafetasId": {}
+  },
+  {
+    "nome": "Margarida",
+    "listaEstafetasId": {}
+  },
+  {
+    "nome": "Pedro Soares",
+    "listaEstafetasId": {}
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "local": "Avenida Doutor Leonardo Coimbra",
+    "peso": 20.0,
+    "volume": 10.0,
+    "tempo": 0.0,
+    "dist": 3.0,
+    "nome": "Rui"
+  },
+  {
+    "id": 2,
+    "local": "Rua de Barros",
+    "peso": 3.0,
+    "volume": 3.0,
+    "tempo": 0.4,
+    "dist": 7.0,
+    "nome": "Salome"
+  },
+  {
+    "id": 3,
+    "local": "Rua Vitor Pedro",
+    "peso": 17.0,
+    "volume": 30.0,
+    "tempo": 7.0,
+    "dist": 22.0,
+    "nome": "Luis"
+  },
+  {
+    "id": 4,
+    "local": "Rua da Fonte",
+    "peso": 80.0,
+    "volume": 50.0,
+    "tempo": 7.0,
+    "dist": 41.0,
+    "nome": "Luis"
+  },
+  {
+    "id": 5,
+    "local": "Avenida Doutor Leonardo Coimbra",
+    "peso": 10.0,
+    "volume": 10.0,
+    "tempo": 10.0,
+    "dist": 3.0,
+    "nome": "Rui"
+  },
+  {
+    "id": 6,
+    "local": "Avenida Doutor Leonardo Coimbra",
+    "peso": 10.0,
+    "volume": 10.0,
+    "tempo": 10.0,
+    "dist": 3.0,
+    "nome": "Rui"
+  },
+  {
+    "id": 7,
+    "local": "Rua de Barros",
+    "peso": 10.0,
+    "volume": 40.0,
+    "tempo": 5.0,
+    "dist": 7.0,
+    "nome": "Rui"
+  }
+]
